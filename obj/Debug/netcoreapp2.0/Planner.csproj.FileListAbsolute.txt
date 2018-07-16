@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Planner\obj\Debug\netcoreapp2.0\Planner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Planner\obj\Debug\netcoreapp2.0\Planner.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Planner\obj\Debug\netcoreapp2.0\Planner.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Planner\bin\Debug\netcoreapp2.0\Planner.deps.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Planner\bin\Debug\netcoreapp2.0\Planner.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Planner\bin\Debug\netcoreapp2.0\Planner.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Planner\bin\Debug\netcoreapp2.0\Planner.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Planner\bin\Debug\netcoreapp2.0\Planner.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Planner\obj\Debug\netcoreapp2.0\Planner.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Planner\obj\Debug\netcoreapp2.0\Planner.pdb
